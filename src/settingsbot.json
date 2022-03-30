@@ -14,7 +14,7 @@
 "banChats": false,
 "autorespon": false,
 "database": false,
-"premium": false,
+"premium": true,
 "infoerror": false,
 "autobackup": false
 }
